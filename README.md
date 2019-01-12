@@ -5,5 +5,7 @@ Login
 
 Jika Login berhasil maka akan masuk ke halaman beranda.php
 ![alt text](https://github.com/NabilaRahmadanti/modul5/blob/master/hasilmodul5/2.PNG)
-Jika Login salah, maka akan muncul notifikasi
+Logout akan kembali ke form login
 ![alt text](https://github.com/NabilaRahmadanti/modul5/blob/master/hasilmodul5/3.PNG)
+Jika login gagal (memasukkan username/password salah), maka akan muncul notifikasi
+![alt text](https://github.com/NabilaRahmadanti/modul5/blob/master/hasilmodul5/4.PNG)
